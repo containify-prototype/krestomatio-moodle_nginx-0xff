@@ -1,4 +1,4 @@
-FROM nginx:0.0.1
+FROM nginx:0.1.35
 
 LABEL maintainer="Your Name <your.email@example.com>"
 
